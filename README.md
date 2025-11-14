@@ -53,8 +53,6 @@ Run the calculator with Python:
 
 python ModernCalc.py
 
-### FOR .EXE FILES GO TO RELEASES
-
 ### CONTROLS
 - Click the buttons or use the keyboard to input numbers and operations.
 
