@@ -8,6 +8,7 @@ root = customtkinter.CTk()
 root.geometry("500x400")
 root.title("Modern Calculator")
 root.resizable(False, False)
+root.attributes("-alpha", 0.9)
 
 Screen = customtkinter.CTkLabel(root, width=15, height=1, text=" ", font=("Arial", 40), anchor="e")
 Screen.pack(pady=20)
