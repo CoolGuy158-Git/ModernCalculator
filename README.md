@@ -1,6 +1,6 @@
 # Modern Calculator
 
-A sleek, CustomTkinter-based calculator built in Python. Inspired by modern calculator designs, it supports basic arithmetic, keyboard input, and a clean GUI with outlined buttons.
+A sleek, CustomTkinter-based calculator built in Python. Inspired by modern calculator designs, it supports basic arithmetic, keyboard input, and a clean GUI with outlined buttons with a translucent background.
 
 ## Features
 
@@ -18,7 +18,7 @@ A sleek, CustomTkinter-based calculator built in Python. Inspired by modern calc
 
 ## Screenshots
 
-![Screenshot](ModernCalc.png)
+![Screenshot](Translucent.png)
 
 
 ## Installation
@@ -75,8 +75,6 @@ python ModernCalc.py
 **Add decimal point support and floating point calculations**
 
 **Include keyboard shortcuts for Clear (Esc) and backspace**
-
-**Add themes or blur background for a more modern Windows-like look**
 
 
 
