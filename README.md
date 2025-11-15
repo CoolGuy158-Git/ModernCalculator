@@ -23,37 +23,59 @@ A sleek, CustomTkinter-based calculator built in Python. Inspired by modern calc
 
 ## Installation
 
-Clone this repository:
+#### Clone this repository:
 
+```bash
 git clone https://github.com/CoolGuy158-Git/ModernCalculator/
+```
 
-Navigate to the project folder:
+#### Navigate to the project folder:
 
+```bash
 cd ModernCalculator
+```
 
-Create a virtual environment (optional but recommended):
+#### Create a virtual environment (optional but recommended):
 
+```bash
 python -m venv .venv
+```
 
-Activate the virtual environment:
+#### Activate the virtual environment:
 
 Windows:
 
+```bash
 .venv\Scripts\activate
+```
 
 Mac/Linux:
 
+```bash
 source .venv/bin/activate
-
+```
+#### Install customtkinter
+```bash
 pip install customtkinter
+```
 
-Usage
+#### Run the calculator with Python:
 
-Run the calculator with Python:
-
+```bash
 python ModernCalc.py
+```
 
-### CONTROLS
+#### **Optional** turn it into an executable
+
+```bash
+pip install pyinstaller
+```
+
+```bash
+pyinstaller ModernCalc.py --onefile --noconsole
+```
+
+## CONTROLS
 - Click the buttons or use the keyboard to input numbers and operations.
 
 - Press Enter or = to calculate.
